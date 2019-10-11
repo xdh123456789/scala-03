@@ -12,6 +12,6 @@ class hello {
 object al{
   def  main(args: Array[String]): Unit = {
     println("hello is in one pakge");
-    println("Double kill");
+    println("Double kill 123456");
   }
 }
